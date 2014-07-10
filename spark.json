@@ -1,7 +1,7 @@
 {
 	"name":	"idDHT11",
 	"author": "Varun Juneja <juneja.varun@gmail.com>",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "GPL v3 (http://www.gnu.org/licenses/gpl.html)",
 	"description": "Interrupt driven, non blocking DHT11 library for Spark"
 }
