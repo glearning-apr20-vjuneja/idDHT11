@@ -8,7 +8,7 @@
 	Based on DHT11 library: http://playground.arduino.cc/Main/DHT11Lib
 */
 
-
+/*
 #ifndef idDHT11_H__
 #define idDHT11_H__
 
@@ -17,6 +17,10 @@
 #else
 #include <WProgram.h>
 #endif
+*/
+
+#include "application.h"
+#include "math.h"
 
 #define IDDHT11LIB_VERSION "0.1"
 
